@@ -1,0 +1,14 @@
+.\oldmanwacth\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+.\oldmanwacth\stream_buffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\oldmanwacth\stream_buffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+.\oldmanwacth\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+.\oldmanwacth\stream_buffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\oldmanwacth\stream_buffer.o: ../Inc/FreeRTOSConfig.h
+.\oldmanwacth\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+.\oldmanwacth\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+.\oldmanwacth\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+.\oldmanwacth\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+.\oldmanwacth\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+.\oldmanwacth\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+.\oldmanwacth\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+.\oldmanwacth\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

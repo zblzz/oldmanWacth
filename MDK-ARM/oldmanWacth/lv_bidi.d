@@ -1,0 +1,17 @@
+.\oldmanwacth\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_bidi.c
+.\oldmanwacth\lv_bidi.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\oldmanwacth\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_bidi.h
+.\oldmanwacth\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+.\oldmanwacth\lv_bidi.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\oldmanwacth\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+.\oldmanwacth\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../../../lv_conf.h
+.\oldmanwacth\lv_bidi.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\oldmanwacth\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_txt.h
+.\oldmanwacth\lv_bidi.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\oldmanwacth\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_area.h
+.\oldmanwacth\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../font/lv_font.h
+.\oldmanwacth\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../font/lv_symbol_def.h
+.\oldmanwacth\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_printf.h
+.\oldmanwacth\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+.\oldmanwacth\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../misc/lv_mem.h
+.\oldmanwacth\lv_bidi.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h

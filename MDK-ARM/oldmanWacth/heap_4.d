@@ -1,0 +1,13 @@
+.\oldmanwacth\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+.\oldmanwacth\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\oldmanwacth\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+.\oldmanwacth\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\oldmanwacth\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\oldmanwacth\heap_4.o: ../Inc/FreeRTOSConfig.h
+.\oldmanwacth\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+.\oldmanwacth\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+.\oldmanwacth\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+.\oldmanwacth\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+.\oldmanwacth\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+.\oldmanwacth\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+.\oldmanwacth\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

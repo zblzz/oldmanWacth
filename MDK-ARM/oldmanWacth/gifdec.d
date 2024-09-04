@@ -1,0 +1,16 @@
+.\oldmanwacth\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\gifdec.c
+.\oldmanwacth\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\gifdec.h
+.\oldmanwacth\gifdec.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\oldmanwacth\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_fs.h
+.\oldmanwacth\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/../lv_conf_internal.h
+.\oldmanwacth\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/../lv_conf_kconfig.h
+.\oldmanwacth\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/../../../lv_conf.h
+.\oldmanwacth\gifdec.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\oldmanwacth\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_log.h
+.\oldmanwacth\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_types.h
+.\oldmanwacth\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_mem.h
+.\oldmanwacth\gifdec.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\oldmanwacth\gifdec.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+.\oldmanwacth\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_color.h
+.\oldmanwacth\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_assert.h
+.\oldmanwacth\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_math.h

@@ -1,0 +1,16 @@
+.\oldmanwacth\lv_font.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\lv_font.c
+.\oldmanwacth\lv_font.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\lv_font.h
+.\oldmanwacth\lv_font.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../lv_conf_internal.h
+.\oldmanwacth\lv_font.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\oldmanwacth\lv_font.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../lv_conf_kconfig.h
+.\oldmanwacth\lv_font.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../../lv_conf.h
+.\oldmanwacth\lv_font.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\oldmanwacth\lv_font.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\oldmanwacth\lv_font.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\lv_symbol_def.h
+.\oldmanwacth\lv_font.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_area.h
+.\oldmanwacth\lv_font.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_utils.h
+.\oldmanwacth\lv_font.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_log.h
+.\oldmanwacth\lv_font.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_types.h
+.\oldmanwacth\lv_font.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_assert.h
+.\oldmanwacth\lv_font.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_mem.h
+.\oldmanwacth\lv_font.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h

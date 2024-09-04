@@ -1,0 +1,15 @@
+.\oldmanwacth\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+.\oldmanwacth\event_groups.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\oldmanwacth\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+.\oldmanwacth\event_groups.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\oldmanwacth\event_groups.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\oldmanwacth\event_groups.o: ../Inc/FreeRTOSConfig.h
+.\oldmanwacth\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+.\oldmanwacth\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+.\oldmanwacth\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+.\oldmanwacth\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+.\oldmanwacth\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+.\oldmanwacth\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+.\oldmanwacth\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+.\oldmanwacth\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+.\oldmanwacth\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

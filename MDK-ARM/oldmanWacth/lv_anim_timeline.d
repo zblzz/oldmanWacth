@@ -1,0 +1,14 @@
+.\oldmanwacth\lv_anim_timeline.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_anim_timeline.c
+.\oldmanwacth\lv_anim_timeline.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_anim_timeline.h
+.\oldmanwacth\lv_anim_timeline.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_anim.h
+.\oldmanwacth\lv_anim_timeline.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+.\oldmanwacth\lv_anim_timeline.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\oldmanwacth\lv_anim_timeline.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+.\oldmanwacth\lv_anim_timeline.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../../../lv_conf.h
+.\oldmanwacth\lv_anim_timeline.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\oldmanwacth\lv_anim_timeline.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\oldmanwacth\lv_anim_timeline.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+.\oldmanwacth\lv_anim_timeline.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+.\oldmanwacth\lv_anim_timeline.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+.\oldmanwacth\lv_anim_timeline.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_assert.h
+.\oldmanwacth\lv_anim_timeline.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_log.h

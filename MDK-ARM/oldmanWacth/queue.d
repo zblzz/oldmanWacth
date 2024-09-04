@@ -1,0 +1,15 @@
+.\oldmanwacth\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+.\oldmanwacth\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\oldmanwacth\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+.\oldmanwacth\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+.\oldmanwacth\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\oldmanwacth\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\oldmanwacth\queue.o: ../Inc/FreeRTOSConfig.h
+.\oldmanwacth\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+.\oldmanwacth\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+.\oldmanwacth\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+.\oldmanwacth\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+.\oldmanwacth\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+.\oldmanwacth\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+.\oldmanwacth\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+.\oldmanwacth\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

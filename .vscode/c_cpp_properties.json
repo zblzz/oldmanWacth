@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/Inc",
+                "${workspaceFolder}/Bsp/Inc",
+                "${workspaceFolder}/App/Inc",
+                "${workspaceFolder}/Drivers/STM32L4xx_HAL_Driver/Inc",
+                "${workspaceFolder}/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy",
+                "${workspaceFolder}/Middlewares/Third_Party/FreeRTOS/Source/include",
+                "${workspaceFolder}/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2",
+                "${workspaceFolder}/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F",
+                "${workspaceFolder}/Drivers/CMSIS/Device/ST/STM32L4xx/Include",
+                "${workspaceFolder}/Drivers/CMSIS/Include",
+                "${workspaceFolder}/Middlewares/LVGL/GUI",
+                "${workspaceFolder}/Middlewares/LVGL/GUI/lvgl",
+                "${workspaceFolder}/Middlewares/LVGL/GUI/lvgl/src",
+                "${workspaceFolder}/Middlewares/LVGL/GUI/porting",
+                "${workspaceFolder}/User",
+                "${workspaceFolder}/User/GUI_App/Screens/Inc",
+                "${workspaceFolder}/User/Tasks/Inc",
+                "${workspaceFolder}/User/Func/Inc",
+                "${workspaceFolder}/User/GUI_App",
+                "${workspaceFolder}/Middlewares/ST/AI/Inc",
+                "${workspaceFolder}/Drivers/BSP/Components/ST25DV",
+                "${workspaceFolder}/Drivers/BSP/NFC04A1",
+                "${workspaceFolder}/Middlewares/ST/lib_nfc/lib_NDEF/Core/inc",
+                "${workspaceFolder}/Middlewares/ST/lib_nfc/Common/inc"
+            ],
+            "defines": [
+                "USE_HAL_DRIVER",
+                "STM32L496xx",
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
